@@ -1,10 +1,6 @@
 # Hi, I'm Constanza 👋
 
-#### Hi, I'm a developer living in Argentina. I have a lot of hobbies (I like learning new things).
-
-- 🌱 I have skills in JavaScript and I’m currently learning Swift.
-
-- 📚 Currently studying a degree in information systems from the Universidad Nacional del Nordeste.
+#### I'm a iOS developer 🍎
 
 - 📫Feel free to reach out to me on <a href="https://www.linkedin.com/in/constanza-lancieri-9976b71b2/">LinkedIn </a> or you can send me an email to clancieri@gmail.com
 
